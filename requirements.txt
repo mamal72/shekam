@@ -1,0 +1,11 @@
+aiofiles==0.3.0
+hazm==0.5.2
+httptools==0.0.9
+libwapiti==0.2.1
+multidict==2.1.4
+nltk==3.0.5
+requests==2.12.5
+Sanic==0.2.0
+six==1.10.0
+ujson==1.35
+uvloop==0.7.2
